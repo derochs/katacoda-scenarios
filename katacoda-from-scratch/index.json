@@ -45,6 +45,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "git"
+    "imageid": "nodejs:12"
   }
 }

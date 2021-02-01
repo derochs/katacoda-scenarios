@@ -1,1 +1,1 @@
-Test
+This tutorial will teach you how to create a new Katacoda Scenario from scratch by using the Katacoda-CLI.
